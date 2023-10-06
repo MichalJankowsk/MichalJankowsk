@@ -46,7 +46,6 @@ I enjoy collaborating and sharing and am enthusiastic about web decentralization
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img alt="Nuxt.js" src="" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </span>
 
@@ -194,11 +193,6 @@ I enjoy collaborating and sharing and am enthusiastic about web decentralization
 ![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)
 ![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
 
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ilesoviy&show_icons=true&hide_border=true&bg_color=3D3D3D&title_color=00E6FE&icon_color=00E6FE&text_color=FFFFFF)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ilesoviy&hide_border=true&theme=black-ice&background=3D3D3D&stroke=00E6FE)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hightop0924&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 <!--
 ---
