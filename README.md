@@ -189,11 +189,6 @@ I enjoy collaborating and sharing and am enthusiastic about web decentralization
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 🥅 Work/Jobs
-![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)
-![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)
-
-
 <!--
 ---
 [![](https://visitcount.itsvg.in/api?id=ilesoviyicon=0&color=0)](https://visitcount.itsvg.in)
